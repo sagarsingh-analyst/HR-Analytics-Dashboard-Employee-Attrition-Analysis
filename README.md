@@ -108,7 +108,7 @@ Reserved/empty sheet (unused).
 
 ## Dashboard
 
-![Overview](screenshot72.png)
+![Overview](Screenshot72.png)
 
 ---
 
